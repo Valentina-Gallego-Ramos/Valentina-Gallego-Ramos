@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Valentina-Gallego-Ramos
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hola, como estas
+- 👀 vive
+- 🌱sueña
+- 💞️crea
+- 📫 imagina
 
 <!---
 Valentina-Gallego-Ramos/Valentina-Gallego-Ramos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
